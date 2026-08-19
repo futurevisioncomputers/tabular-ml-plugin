@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Permission grants accrete per-session and per-machine. Not plugin content.
+.claude/settings.json
+.claude/settings.local.json
